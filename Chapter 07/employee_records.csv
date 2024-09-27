@@ -1,0 +1,11 @@
+ID,FirstName,LastName,Email,Department,Salary
+1,John,Smith,john.smith@example.com,Engineering,70000
+2,Jane,Doe,jane.doe@example.com,Marketing,65000
+3,Michael,Brown,michael.brown@example.com,Sales,72000
+4,Emily,Davis,emily.davis@example.com,Human Resources,60000
+5,David,Wilson,david.wilson@example.com,Engineering,75000
+6,Emma,Johnson,emma.johnson@example.com,Finance,68000
+7,Daniel,Garcia,daniel.garcia@example.com,IT,70000
+8,Olivia,Martinez,olivia.martinez@example.com,Customer Service,55000
+9,Liam,Anderson,liam.anderson@example.com,Engineering,72000
+10,Isabella,Thomas,isabella.thomas@example.com,Marketing,64000
